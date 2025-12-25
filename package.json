@@ -1,0 +1,25 @@
+{
+  "name": "bookstore-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabare1/bookstore-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sabare1/bookstore-api/issues"
+  },
+  "homepage": "https://github.com/Sabare1/bookstore-api#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2"
+  }
+}
